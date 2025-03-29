@@ -1,1 +1,3 @@
 # akkaodo
+print("hello world)
+        
